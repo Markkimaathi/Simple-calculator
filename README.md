@@ -1,1 +1,1 @@
-﻿# Simple-calculator, literally!
+Literal simple calculator which returns answers!
