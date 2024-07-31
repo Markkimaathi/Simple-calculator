@@ -1,1 +1,1 @@
-Literal simple calculator which returns answers!
+Literal simple calculator which returns answers! (in most cases, lmao)
